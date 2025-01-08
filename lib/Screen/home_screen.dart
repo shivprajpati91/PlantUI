@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:plantuii/Screen/product.dart';
-
-
 import '../Utils/colors.dart';
 import 'detailscreen.dart';
 
